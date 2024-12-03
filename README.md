@@ -99,8 +99,6 @@ Test coverage:
 
 ## BaseTest database tricks
 
-Quando usare il database? Possibilmente mai. Ma nel caso ...
-
 ##### Traits:
 
 `use RefreshDatabase;`
