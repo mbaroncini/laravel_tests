@@ -27,7 +27,7 @@ style: |
 
 # Laravel Tests
 
-### Best practices and something good to know
+### Come orientarsi nella scrittura dei test
 
 ---
 
@@ -41,7 +41,7 @@ Feature tests may test a larger portion of your code, including how several obje
 
 ---
 
-## Come orientarsi nella documentazione
+## La documentazione
 
 https://laravel.com/docs/11.x/testing
 
@@ -164,11 +164,11 @@ https://pestphp.com/docs/mutation-testing
 
 ---
 
-## Caso studio, wm-package
-
-https://packages.tools/
+## I test sui package. Caso studio: wm-package
 
 ## ![alt text](image-1.png)
+
+https://packages.tools/
 
 https://packages.tools/testbench/troubleshooting.html#why-testbench-doesn-t-include-any-of-the-app-classes
 
